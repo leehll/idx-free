@@ -8,12 +8,12 @@
 ---
 ## 运行命令
 ```
-wget https://raw.githubusercontent.com/byJoey/idx-free/refs/heads/main/install.sh
+wget https://raw.githubusercontent.com/leehll/idx-free/main/install.sh
 bash install.sh
 ```
 ## vps或者软路由安装火狐
 ```
-bash <(curl -l -s https://raw.githubusercontent.com/byJoey/idx-free/refs/heads/main/Firefox.sh)
+bash <(curl -l -s https://raw.githubusercontent.com/leehll/idx-free/main/Firefox.sh)
 ```
 ## 核心改动说明
 
